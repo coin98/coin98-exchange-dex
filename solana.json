@@ -8,7 +8,7 @@
       "mintAddress": "So11111111111111111111111111111111111111112",
       "symbol": "SOL",
       "name": "Solana",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/solana/info/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/solana/info/logo.png",
       "decimals": 9
     },
     "pair": {
@@ -16,7 +16,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -29,7 +29,7 @@
       "mintAddress": "HJbNXx2YMRxgfUJ6K4qeWtjatMK5KYQT1QnsCdDWywNv",
       "symbol": "ATS",
       "name": "Atlas Dex",
-      "icon": "https: //raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HJbNXx2YMRxgfUJ6K4qeWtjatMK5KYQT1QnsCdDWywNv/logo.png",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HJbNXx2YMRxgfUJ6K4qeWtjatMK5KYQT1QnsCdDWywNv/logo.png",
       "decimals": 9
     },
     "pair": {
@@ -37,7 +37,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -50,7 +50,7 @@
       "mintAddress": "nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7",
       "symbol": "NOS",
       "name": "Nosana",
-      "icon": "https: //coin98.s3.amazonaws.com/jZtgxVbf0E5PYmkT",
+      "icon": "https://coin98.s3.amazonaws.com/jZtgxVbf0E5PYmkT",
       "decimals": 6
     },
     "pair": {
@@ -58,7 +58,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -71,7 +71,7 @@
       "mintAddress": "AkhdZGVbJXPuQZ53u2LrimCjkRP6ZyxG1SoM85T98eE1",
       "symbol": "BOT",
       "name": "Starbots Token",
-      "icon": "https: //coin98.s3.amazonaws.com/ALtmPM7dt9Pjeyth",
+      "icon": "https://coin98.s3.amazonaws.com/ALtmPM7dt9Pjeyth",
       "decimals": 8
     },
     "pair": {
@@ -79,7 +79,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -92,7 +92,7 @@
       "mintAddress": "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3",
       "symbol": "POLE",
       "name": "Pole Aggregator Governance Token",
-      "icon": "https: //coin98.s3.ap-southeast-1.amazonaws.com/pole.png",
+      "icon": "https://coin98.s3.ap-southeast-1.amazonaws.com/pole.png",
       "decimals": 6
     },
     "pair": {
@@ -100,7 +100,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -113,7 +113,7 @@
       "mintAddress": "AAmGoPDFLG6bE82BgZWjVi8k95tj9Tf3vUN7WvtUm2BU",
       "symbol": "RACEFI",
       "name": "RACEFI",
-      "icon": "https: //raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AAmGoPDFLG6bE82BgZWjVi8k95tj9Tf3vUN7WvtUm2BU/logo.png",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AAmGoPDFLG6bE82BgZWjVi8k95tj9Tf3vUN7WvtUm2BU/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -121,7 +121,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -134,7 +134,7 @@
       "mintAddress": "PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x",
       "symbol": "PRISM",
       "name": "PRISM",
-      "icon": "https: //coin98.s3.amazonaws.com/2SwTQ9stlvF8lxYH",
+      "icon": "https://coin98.s3.amazonaws.com/2SwTQ9stlvF8lxYH",
       "decimals": 6
     },
     "pair": {
@@ -142,7 +142,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -155,7 +155,7 @@
       "mintAddress": "Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A",
       "symbol": "MBS",
       "name": "MBS",
-      "icon": "https: //assets.coingecko.com/coins/images/21720/large/HtFQuT-c_400x400.jpg?1639946399",
+      "icon": "https://assets.coingecko.com/coins/images/21720/large/HtFQuT-c_400x400.jpg?1639946399",
       "decimals": 6
     },
     "pair": {
@@ -163,7 +163,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -176,7 +176,7 @@
       "mintAddress": "AD27ov5fVU2XzwsbvnFvb1JpCBaCB5dRXrczV9CqSVGb",
       "symbol": "REAL",
       "name": "REAL",
-      "icon": "https: //coin98.s3.amazonaws.com/bg5DWWuEnr9meXyM",
+      "icon": "https://coin98.s3.amazonaws.com/bg5DWWuEnr9meXyM",
       "decimals": 9
     },
     "pair": {
@@ -184,7 +184,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -197,7 +197,7 @@
       "mintAddress": "5gs8nf4wojB5EXgDUWNLwXpknzgV2YWDhveAeBZpVLbp",
       "symbol": "XTAG",
       "name": "XTAG",
-      "icon": "https: //coin98.s3.amazonaws.com/QrCOda1qZbbB8onk",
+      "icon": "https://coin98.s3.amazonaws.com/QrCOda1qZbbB8onk",
       "decimals": 6
     },
     "pair": {
@@ -205,7 +205,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -218,7 +218,7 @@
       "mintAddress": "kiNeKo77w1WBEzFFCXrTDRWGRWGP8yHvKC9rX6dqjQh",
       "symbol": "KKO",
       "name": "KKO",
-      "icon": "https: //coin98.s3.amazonaws.com/2dEFzUkvYYZi1VPB",
+      "icon": "https://coin98.s3.amazonaws.com/2dEFzUkvYYZi1VPB",
       "decimals": 9
     },
     "pair": {
@@ -226,7 +226,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -239,7 +239,7 @@
       "mintAddress": "7zBWymxbZt7PVHQzfi3i85frc1YRiQc23K7bh3gos8ZC",
       "symbol": "VI",
       "name": "VI",
-      "icon": "https: //raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7zBWymxbZt7PVHQzfi3i85frc1YRiQc23K7bh3gos8ZC/logo.png",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7zBWymxbZt7PVHQzfi3i85frc1YRiQc23K7bh3gos8ZC/logo.png",
       "decimals": 9
     },
     "pair": {
@@ -247,7 +247,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -260,7 +260,7 @@
       "mintAddress": "Bx1fDtvTN6NvE4kjdPHQXtmGSg582bZx9fGy4DQNMmAT",
       "symbol": "SOLC",
       "name": "SOLC",
-      "icon": "https: //coin98.s3.amazonaws.com/TYE22uhgkepjxydb",
+      "icon": "https://coin98.s3.amazonaws.com/TYE22uhgkepjxydb",
       "decimals": 9
     },
     "pair": {
@@ -268,7 +268,7 @@
       "mintAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "symbol": "USDT",
       "name": "USDT",
-      "icon": "https: //coin98.s3.amazonaws.com/5mFLwXbtgIvjMCkv",
+      "icon": "https://coin98.s3.amazonaws.com/5mFLwXbtgIvjMCkv",
       "decimals": 6
     }
   },
@@ -281,7 +281,7 @@
       "mintAddress": "9zoqdwEBKWEi9G5Ze8BSkdmppxGgVv1Kw4LuigDiNr9m",
       "symbol": "STR",
       "name": "STR",
-      "icon": "https: //coin98.s3.amazonaws.com/mVtRsRJhz14fDSOb",
+      "icon": "https://coin98.s3.amazonaws.com/mVtRsRJhz14fDSOb",
       "decimals": 9
     },
     "pair": {
@@ -289,7 +289,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -302,7 +302,7 @@
       "mintAddress": "5U9QqCPhqXAJcEv9uyzFJd5zhN93vuPk1aNNkXnUfPnt",
       "symbol": "SPWN",
       "name": "SPWN",
-      "icon": "https: //coin98.s3.amazonaws.com/Yp4qrnqdBTwGsdkO",
+      "icon": "https://coin98.s3.amazonaws.com/Yp4qrnqdBTwGsdkO",
       "decimals": 9
     },
     "pair": {
@@ -310,7 +310,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -323,7 +323,7 @@
       "mintAddress": "333iHoRM2Awhf9uVZtSyTfU8AekdGrgQePZsKMFPgKmS",
       "symbol": "ISOLA",
       "name": "ISOLA",
-      "icon": "https: //assets.coingecko.com/coins/images/17460/large/IS_token_icon3.png?1627883249",
+      "icon": "https://assets.coingecko.com/coins/images/17460/large/IS_token_icon3.png?1627883249",
       "decimals": 6
     },
     "pair": {
@@ -331,7 +331,7 @@
       "mintAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "symbol": "USDT",
       "name": "USDT",
-      "icon": "https: //coin98.s3.amazonaws.com/5mFLwXbtgIvjMCkv",
+      "icon": "https://coin98.s3.amazonaws.com/5mFLwXbtgIvjMCkv",
       "decimals": 6
     }
   },
@@ -344,7 +344,7 @@
       "mintAddress": "FNFKRV3V8DtA3gVJN6UshMiLGYA8izxFwkNWmJbFjmRj",
       "symbol": "TTT",
       "name": "TabTrader",
-      "icon": "https: //coin98.s3.amazonaws.com/RZCg4YB2pVOkBX1R",
+      "icon": "https://coin98.s3.amazonaws.com/RZCg4YB2pVOkBX1R",
       "decimals": 6
     },
     "pair": {
@@ -352,7 +352,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -365,7 +365,7 @@
       "mintAddress": "6F9XriABHfWhit6zmMUYAQBSy6XK5VF1cHXuW5LDpRtC",
       "symbol": "RUN",
       "name": "RUN",
-      "icon": "https: //assets.coingecko.com/coins/images/21374/large/cZoMwlyl_400x400.jpg?1639032079",
+      "icon": "https://assets.coingecko.com/coins/images/21374/large/cZoMwlyl_400x400.jpg?1639032079",
       "decimals": 9
     },
     "pair": {
@@ -373,7 +373,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -386,7 +386,7 @@
       "mintAddress": "CRWNYkqdgvhGGae9CKfNka58j6QQkaD5bLhKXvUYqnc1",
       "symbol": "CRWNY",
       "name": "CRWNY",
-      "icon": "https: //coin98.s3.amazonaws.com/WcdaQnhc2rQrh4l2",
+      "icon": "https://coin98.s3.amazonaws.com/WcdaQnhc2rQrh4l2",
       "decimals": 6
     },
     "pair": {
@@ -394,7 +394,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -407,7 +407,7 @@
       "mintAddress": "CRWNYkqdgvhGGae9CKfNka58j6QQkaD5bLhKXvUYqnc1",
       "symbol": "CRWNY",
       "name": "CRWNY",
-      "icon": "https: //coin98.s3.amazonaws.com/WcdaQnhc2rQrh4l2",
+      "icon": "https://coin98.s3.amazonaws.com/WcdaQnhc2rQrh4l2",
       "decimals": 6
     },
     "pair": {
@@ -415,7 +415,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -428,7 +428,7 @@
       "mintAddress": "NFTUkR4u7wKxy9QLaX2TGvd9oZSWoMo4jqSJqdMb7Nk",
       "symbol": "BLOCK",
       "name": "BLOCK",
-      "icon": "https: //assets.coingecko.com/coins/images/21332/large/blockasset.PNG?1638947864",
+      "icon": "https://assets.coingecko.com/coins/images/21332/large/blockasset.PNG?1638947864",
       "decimals": 6
     },
     "pair": {
@@ -436,7 +436,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -449,7 +449,7 @@
       "mintAddress": "GFX1ZjR2P15tmrSwow6FjyDYcEkoFb4p4gJCpLBjaxHD",
       "symbol": "GOFX",
       "name": "GOFX",
-      "icon": "https: //coin98.s3.amazonaws.com/4OjDstIGdQiYnl5S",
+      "icon": "https://coin98.s3.amazonaws.com/4OjDstIGdQiYnl5S",
       "decimals": 9
     },
     "pair": {
@@ -457,7 +457,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -470,7 +470,7 @@
       "mintAddress": "sonarX4VtVkQemriJeLm6CKeW3GDMyiBnnAEMw1MRAE",
       "symbol": "SONAR",
       "name": "SONAR",
-      "icon": "https: //coin98.s3.amazonaws.com/07tzb1XQdCE9ztjc",
+      "icon": "https://coin98.s3.amazonaws.com/07tzb1XQdCE9ztjc",
       "decimals": 9
     },
     "pair": {
@@ -478,7 +478,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -491,7 +491,7 @@
       "mintAddress": "6cVgJUqo4nmvQpbgrDZwyfd6RwWw5bfnCamS3M9N1fd",
       "symbol": "SHILL",
       "name": "SHILL Token",
-      "icon": "https: //coin98.s3.amazonaws.com/i3g78ux6Lu7hovKW",
+      "icon": "https://coin98.s3.amazonaws.com/i3g78ux6Lu7hovKW",
       "decimals": 6
     },
     "pair": {
@@ -499,7 +499,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -512,7 +512,7 @@
       "mintAddress": "DFL1zNkaGPWm1BqAVqRjCZvHmwTFrEaJtbzJWgseoNJh",
       "symbol": "DFL",
       "name": "DeFi Land",
-      "icon": "https: //coin98.s3.amazonaws.com/mat2XbBJwuOGvOKx",
+      "icon": "https://coin98.s3.amazonaws.com/mat2XbBJwuOGvOKx",
       "decimals": 9
     },
     "pair": {
@@ -520,7 +520,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -533,7 +533,7 @@
       "mintAddress": "HCgybxq5Upy8Mccihrp7EsmwwFqYZtrHrsmsKwtGXLgW",
       "symbol": "STARS",
       "name": "StarLaunch",
-      "icon": "https: //coin98.s3.amazonaws.com/gh6oV3tyispjlB0K",
+      "icon": "https://coin98.s3.amazonaws.com/gh6oV3tyispjlB0K",
       "decimals": 6
     },
     "pair": {
@@ -541,7 +541,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -554,7 +554,7 @@
       "mintAddress": "APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt",
       "symbol": "APT",
       "name": "APT",
-      "icon": "https: //assets.coingecko.com/coins/images/20636/large/hF_3FMuH_400x400.jpg?1637399870",
+      "icon": "https://assets.coingecko.com/coins/images/20636/large/hF_3FMuH_400x400.jpg?1637399870",
       "decimals": 6
     },
     "pair": {
@@ -562,7 +562,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -575,7 +575,7 @@
       "mintAddress": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
       "symbol": "ETH",
       "name": "Ethereum",
-      "icon": "https: //coin98.s3-ap-southeast-1.amazonaws.com/Coin/ethActive2.png",
+      "icon": "https://coin98.s3-ap-southeast-1.amazonaws.com/Coin/ethActive2.png",
       "decimals": 6
     },
     "pair": {
@@ -583,7 +583,7 @@
       "mintAddress": "So11111111111111111111111111111111111111112",
       "symbol": "SOL",
       "name": "Solana",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/solana/info/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/solana/info/logo.png",
       "decimals": 9
     }
   },
@@ -596,7 +596,7 @@
       "mintAddress": "Lrxqnh6ZHKbGy3dcrCED43nsoLkM1LTzU2jRfWe8qUC",
       "symbol": "LARIX",
       "name": "LARIX",
-      "icon": "https: //coin98.s3.amazonaws.com/j5q3htZ2BhryH0Yz",
+      "icon": "https://coin98.s3.amazonaws.com/j5q3htZ2BhryH0Yz",
       "decimals": 6
     },
     "pair": {
@@ -604,7 +604,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -617,7 +617,7 @@
       "mintAddress": "Lrxqnh6ZHKbGy3dcrCED43nsoLkM1LTzU2jRfWe8qUC",
       "symbol": "LARIX",
       "name": "LARIX",
-      "icon": "https: //coin98.s3.amazonaws.com/j5q3htZ2BhryH0Yz",
+      "icon": "https://coin98.s3.amazonaws.com/j5q3htZ2BhryH0Yz",
       "decimals": 6
     },
     "pair": {
@@ -625,7 +625,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -638,7 +638,7 @@
       "mintAddress": "4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj",
       "symbol": "LIQ",
       "name": "LIQ Protocol",
-      "icon": "https: //coin98.s3.amazonaws.com/fiiIT2u1VAxzOgkL",
+      "icon": "https://coin98.s3.amazonaws.com/fiiIT2u1VAxzOgkL",
       "decimals": 6
     },
     "pair": {
@@ -646,7 +646,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -659,7 +659,7 @@
       "mintAddress": "5tN42n9vMi6ubp67Uy4NnmM5DMZYN8aS8GeB3bEDHr6E",
       "symbol": "WAG",
       "name": "Waggle Network",
-      "icon": "https: //coin98.s3.amazonaws.com/KGa0fkUmHLXZKJ95",
+      "icon": "https://coin98.s3.amazonaws.com/KGa0fkUmHLXZKJ95",
       "decimals": 9
     },
     "pair": {
@@ -667,7 +667,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -680,7 +680,7 @@
       "mintAddress": "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP",
       "symbol": "AURY",
       "name": "AURY",
-      "icon": "https: //coin98.s3.amazonaws.com/RB9Ha43QmfPdNKf4",
+      "icon": "https://coin98.s3.amazonaws.com/RB9Ha43QmfPdNKf4",
       "decimals": 9
     },
     "pair": {
@@ -688,7 +688,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -701,7 +701,7 @@
       "mintAddress": "PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44",
       "symbol": "PRT",
       "name": "PRT",
-      "icon": "https: //assets.coingecko.com/coins/images/13617/large/OKeO2FI.png?1610327038",
+      "icon": "https://assets.coingecko.com/coins/images/13617/large/OKeO2FI.png?1610327038",
       "decimals": 6
     },
     "pair": {
@@ -709,7 +709,7 @@
       "mintAddress": "11111111111111111111111111111111",
       "symbol": "SOL",
       "name": "Native Solana",
-      "icon": "https: //coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
+      "icon": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
       "decimals": 9
     }
   },
@@ -722,7 +722,7 @@
       "mintAddress": "ErGB9xa24Szxbk1M28u2Tx8rKPqzL6BroNkkzk5rG4zj",
       "symbol": "FRKT",
       "name": "FRKT",
-      "icon": "https: //assets.coingecko.com/coins/images/18926/large/logo_-_2021-10-11T132203.751.png?1633929748",
+      "icon": "https://assets.coingecko.com/coins/images/18926/large/logo_-_2021-10-11T132203.751.png?1633929748",
       "decimals": 8
     },
     "pair": {
@@ -730,7 +730,7 @@
       "mintAddress": "11111111111111111111111111111111",
       "symbol": "SOL",
       "name": "Native Solana",
-      "icon": "https: //coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
+      "icon": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
       "decimals": 9
     }
   },
@@ -743,7 +743,7 @@
       "mintAddress": "a11bdAAuV8iB2fu7X6AxAvDTo1QZ8FXB3kk5eecdasp",
       "symbol": "ABR",
       "name": "ABR",
-      "icon": "https: //coin98.s3.amazonaws.com/bom3u6bTRZnhBlCk",
+      "icon": "https://coin98.s3.amazonaws.com/bom3u6bTRZnhBlCk",
       "decimals": 9
     },
     "pair": {
@@ -751,7 +751,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -764,7 +764,7 @@
       "mintAddress": "inL8PMVd6iiW3RCBJnr5AsrRN6nqr4BTrcNuQWQSkvY",
       "symbol": "IN",
       "name": "IN",
-      "icon": "https: //coin98.s3.amazonaws.com/flRUyvyVt8Xbinut",
+      "icon": "https://coin98.s3.amazonaws.com/flRUyvyVt8Xbinut",
       "decimals": 9
     },
     "pair": {
@@ -772,7 +772,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -785,7 +785,7 @@
       "mintAddress": "4TGxgCSJQx2GQk9oHZ8dC5m3JNXTYZHjXumKAW3vLnNx",
       "symbol": "OXS",
       "name": "OXS",
-      "icon": "https: //coin98.s3.amazonaws.com/cn0wDdw1VePGH2Yk",
+      "icon": "https://coin98.s3.amazonaws.com/cn0wDdw1VePGH2Yk",
       "decimals": 9
     },
     "pair": {
@@ -793,7 +793,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -806,7 +806,7 @@
       "mintAddress": "HfYFjMKNZygfMC8LsQ8LtpPsPxEJoXJx4M6tqi75Hajo",
       "symbol": "CWAR",
       "name": "CWAR",
-      "icon": "https: //coin98.s3.amazonaws.com/pO8iD9hrMLX2pxSm",
+      "icon": "https://coin98.s3.amazonaws.com/pO8iD9hrMLX2pxSm",
       "decimals": 9
     },
     "pair": {
@@ -814,7 +814,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -827,7 +827,7 @@
       "mintAddress": "EwJN2GqUGXXzYmoAciwuABtorHczTA5LqbukKXV1viH7",
       "symbol": "UPS",
       "name": "UPS",
-      "icon": "https: //coin98.s3.amazonaws.com/pypFkp4Y2F9dw44Y",
+      "icon": "https://coin98.s3.amazonaws.com/pypFkp4Y2F9dw44Y",
       "decimals": 6
     },
     "pair": {
@@ -835,7 +835,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -848,7 +848,7 @@
       "mintAddress": "4SZjjNABoqhbd4hnapbvoEPEqT8mnNkfbEoAwALf1V8t",
       "symbol": "CAVE",
       "name": "CAVE",
-      "icon": "https: //coin98.s3.amazonaws.com/Y0sfSeJv41KjXIuB",
+      "icon": "https://coin98.s3.amazonaws.com/Y0sfSeJv41KjXIuB",
       "decimals": 6
     },
     "pair": {
@@ -856,7 +856,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -869,7 +869,7 @@
       "mintAddress": "GENEtH5amGSi8kHAtQoezp1XEXwZJ8vcuePYnXdKrMYz",
       "symbol": "GENE",
       "name": "Genopets",
-      "icon": "https: //coin98.s3.amazonaws.com/WLnaOvvzAFoqaBeo",
+      "icon": "https://coin98.s3.amazonaws.com/WLnaOvvzAFoqaBeo",
       "decimals": 9
     },
     "pair": {
@@ -877,7 +877,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -890,7 +890,7 @@
       "mintAddress": "GENEtH5amGSi8kHAtQoezp1XEXwZJ8vcuePYnXdKrMYz",
       "symbol": "GENE",
       "name": "Genopets",
-      "icon": "https: //coin98.s3.amazonaws.com/WLnaOvvzAFoqaBeo",
+      "icon": "https://coin98.s3.amazonaws.com/WLnaOvvzAFoqaBeo",
       "decimals": 9
     },
     "pair": {
@@ -898,7 +898,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -911,7 +911,7 @@
       "mintAddress": "4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj",
       "symbol": "LIQ",
       "name": "LIQ Protocol",
-      "icon": "https: //coin98.s3.amazonaws.com/fiiIT2u1VAxzOgkL",
+      "icon": "https://coin98.s3.amazonaws.com/fiiIT2u1VAxzOgkL",
       "decimals": 6
     },
     "pair": {
@@ -919,7 +919,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -932,7 +932,7 @@
       "mintAddress": "FnKE9n6aGjQoNWRBZXy4RW6LZVao7qwBonUbiD7edUmZ",
       "symbol": "SYP",
       "name": "SYP",
-      "icon": "https: //coin98.s3.amazonaws.com/ftkwMUxPHbpYHZad",
+      "icon": "https://coin98.s3.amazonaws.com/ftkwMUxPHbpYHZad",
       "decimals": 9
     },
     "pair": {
@@ -940,7 +940,7 @@
       "mintAddress": "11111111111111111111111111111111",
       "symbol": "SOL",
       "name": "Native Solana",
-      "icon": "https: //coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
+      "icon": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
       "decimals": 9
     }
   },
@@ -953,7 +953,7 @@
       "mintAddress": "FnKE9n6aGjQoNWRBZXy4RW6LZVao7qwBonUbiD7edUmZ",
       "symbol": "SYP",
       "name": "SYP",
-      "icon": "https: //coin98.s3.amazonaws.com/ftkwMUxPHbpYHZad",
+      "icon": "https://coin98.s3.amazonaws.com/ftkwMUxPHbpYHZad",
       "decimals": 9
     },
     "pair": {
@@ -961,7 +961,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -974,7 +974,7 @@
       "mintAddress": "FnKE9n6aGjQoNWRBZXy4RW6LZVao7qwBonUbiD7edUmZ",
       "symbol": "SYP",
       "name": "SYP",
-      "icon": "https: //coin98.s3.amazonaws.com/ftkwMUxPHbpYHZad",
+      "icon": "https://coin98.s3.amazonaws.com/ftkwMUxPHbpYHZad",
       "decimals": 9
     },
     "pair": {
@@ -982,7 +982,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -995,7 +995,7 @@
       "mintAddress": "9nEqaUcb16sQ3Tn1psbkWqyhPdLmfHWjKGymREjsAgTE",
       "symbol": "WOOF",
       "name": "WOOF Token",
-      "icon": "https: //coin98.s3.amazonaws.com/aWMskJeZIQhQPeHy",
+      "icon": "https://coin98.s3.amazonaws.com/aWMskJeZIQhQPeHy",
       "decimals": 6
     },
     "pair": {
@@ -1003,7 +1003,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -1016,7 +1016,7 @@
       "mintAddress": "9nEqaUcb16sQ3Tn1psbkWqyhPdLmfHWjKGymREjsAgTE",
       "symbol": "WOOF",
       "name": "WOOF Token",
-      "icon": "https: //coin98.s3.amazonaws.com/aWMskJeZIQhQPeHy",
+      "icon": "https://coin98.s3.amazonaws.com/aWMskJeZIQhQPeHy",
       "decimals": 6
     },
     "pair": {
@@ -1024,7 +1024,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1037,7 +1037,7 @@
       "mintAddress": "SLNDpmoWTVADgEdndyvWzroNL7zSi1dF9PC3xHGtPwp",
       "symbol": "SLND",
       "name": "SLND",
-      "icon": "https: //coin98.s3.amazonaws.com/I8GeFWsOmJnxZcA9",
+      "icon": "https://coin98.s3.amazonaws.com/I8GeFWsOmJnxZcA9",
       "decimals": 6
     },
     "pair": {
@@ -1045,7 +1045,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1058,7 +1058,7 @@
       "mintAddress": "51tMb3zBKDiQhNwGqpgwbavaGH54mk8fXFzxTc1xnasg",
       "symbol": "APEX",
       "name": "ApeXit Finance",
-      "icon": "https: //coin98.s3.amazonaws.com/KYRjeiZSNHh5f7ht",
+      "icon": "https://coin98.s3.amazonaws.com/KYRjeiZSNHh5f7ht",
       "decimals": 9
     },
     "pair": {
@@ -1066,7 +1066,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1079,7 +1079,7 @@
       "mintAddress": "PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44",
       "symbol": "PRT",
       "name": "Parrot Protocol",
-      "icon": "https: //assets.coingecko.com/coins/images/18443/large/parrot.PNG?1632053217",
+      "icon": "https://assets.coingecko.com/coins/images/18443/large/parrot.PNG?1632053217",
       "decimals": 6
     },
     "pair": {
@@ -1087,7 +1087,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1100,7 +1100,7 @@
       "mintAddress": "8upjSpvjcdpuzhfR1zriwg5NXkwDruejqNE9WNbPRtyA",
       "symbol": "GRAPE",
       "name": "Grape",
-      "icon": "https: //lh3.googleusercontent.com/y7Wsemw9UVBc9dtjtRfVilnS1cgpDt356PPAjne5NvMXIwWz9_x7WKMPH99teyv8vXDmpZinsJdgiFQ16_OAda1dNcsUxlpw9DyMkUk=s0",
+      "icon": "https://lh3.googleusercontent.com/y7Wsemw9UVBc9dtjtRfVilnS1cgpDt356PPAjne5NvMXIwWz9_x7WKMPH99teyv8vXDmpZinsJdgiFQ16_OAda1dNcsUxlpw9DyMkUk=s0",
       "decimals": 6
     },
     "pair": {
@@ -1108,7 +1108,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1121,7 +1121,7 @@
       "mintAddress": "BRLsMczKuaR5w9vSubF4j8HwEGGprVAyyVgS4EX7DKEg",
       "symbol": "CYS",
       "name": "Cyclos",
-      "icon": "https: //coin98.s3.amazonaws.com/vYCg6BJRgBCRWV3q",
+      "icon": "https://coin98.s3.amazonaws.com/vYCg6BJRgBCRWV3q",
       "decimals": 6
     },
     "pair": {
@@ -1129,7 +1129,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1142,7 +1142,7 @@
       "mintAddress": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
       "symbol": "SUNNY",
       "name": "Sunny Aggregator",
-      "icon": "https: //coin98.s3.amazonaws.com/WLQZYxdqLOqqCG1g",
+      "icon": "https://coin98.s3.amazonaws.com/WLQZYxdqLOqqCG1g",
       "decimals": 6
     },
     "pair": {
@@ -1150,7 +1150,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1163,7 +1163,7 @@
       "mintAddress": "poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk",
       "symbol": "POLIS",
       "name": "POLIS",
-      "icon": "https: //assets.coingecko.com/coins/images/17789/large/POLIS.jpg?1629256006",
+      "icon": "https://assets.coingecko.com/coins/images/17789/large/POLIS.jpg?1629256006",
       "decimals": 8
     },
     "pair": {
@@ -1171,7 +1171,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1184,7 +1184,7 @@
       "mintAddress": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
       "symbol": "ATLAS",
       "name": "ATLAS",
-      "icon": "https: //coin98.s3.amazonaws.com/VypkwV3FLrBb89xm",
+      "icon": "https://coin98.s3.amazonaws.com/VypkwV3FLrBb89xm",
       "decimals": 8
     },
     "pair": {
@@ -1192,7 +1192,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1205,7 +1205,7 @@
       "mintAddress": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
       "symbol": "ATLAS",
       "name": "ATLAS",
-      "icon": "https: //coin98.s3.amazonaws.com/VypkwV3FLrBb89xm",
+      "icon": "https://coin98.s3.amazonaws.com/VypkwV3FLrBb89xm",
       "decimals": 8
     },
     "pair": {
@@ -1213,7 +1213,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -1226,7 +1226,7 @@
       "mintAddress": "poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk",
       "symbol": "POLIS",
       "name": "POLIS",
-      "icon": "https: //assets.coingecko.com/coins/images/17789/large/POLIS.jpg?1629256006",
+      "icon": "https://assets.coingecko.com/coins/images/17789/large/POLIS.jpg?1629256006",
       "decimals": 8
     },
     "pair": {
@@ -1234,7 +1234,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -1247,7 +1247,7 @@
       "mintAddress": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
       "symbol": "ORCA",
       "name": "Orca",
-      "icon": "https: //assets.coingecko.com/coins/images/17547/large/orca.PNG?1628211272",
+      "icon": "https://assets.coingecko.com/coins/images/17547/large/orca.PNG?1628211272",
       "decimals": 6
     },
     "pair": {
@@ -1255,7 +1255,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1268,7 +1268,7 @@
       "mintAddress": "MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K",
       "symbol": "MER",
       "name": "Mercurial",
-      "icon": "https: //coin98.s3.amazonaws.com/CQ40pCL5wQP5GxxD",
+      "icon": "https://coin98.s3.amazonaws.com/CQ40pCL5wQP5GxxD",
       "decimals": 6
     },
     "pair": {
@@ -1276,7 +1276,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1289,7 +1289,7 @@
       "mintAddress": "MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac",
       "symbol": "MNGO",
       "name": "Mango",
-      "icon": "https: //coin98.s3.amazonaws.com/0w5iuQ37CorbfQSj",
+      "icon": "https://coin98.s3.amazonaws.com/0w5iuQ37CorbfQSj",
       "decimals": 6
     },
     "pair": {
@@ -1297,7 +1297,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1310,7 +1310,7 @@
       "mintAddress": "CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K",
       "symbol": "ALEPH",
       "name": "Wrapped ALEPH",
-      "icon": "https: //assets.coingecko.com/coins/images/11676/large/Aleph.png?1592649689",
+      "icon": "https://assets.coingecko.com/coins/images/11676/large/Aleph.png?1592649689",
       "decimals": 6
     },
     "pair": {
@@ -1318,7 +1318,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -1331,7 +1331,7 @@
       "mintAddress": "TuLipcqtGVXP9XR62wM8WWCm6a9vhLs7T1uoWBk6FDs",
       "symbol": "TULIP",
       "name": "TULIP",
-      "icon": "https: //coin98.s3.amazonaws.com/5tse3MTjDqT17C3w",
+      "icon": "https://coin98.s3.amazonaws.com/5tse3MTjDqT17C3w",
       "decimals": 6
     },
     "pair": {
@@ -1339,7 +1339,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -1352,7 +1352,7 @@
       "mintAddress": "SLRSSpSLUTP7okbCUBYStWCo1vUgyt775faPqz8HUMr",
       "symbol": "SLRS",
       "name": "SLRS",
-      "icon": "https: //coin98.s3.amazonaws.com/rqMKWWWNpvl3oOUy",
+      "icon": "https://coin98.s3.amazonaws.com/rqMKWWWNpvl3oOUy",
       "decimals": 6
     },
     "pair": {
@@ -1360,7 +1360,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -1373,7 +1373,7 @@
       "mintAddress": "MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K",
       "symbol": "MER",
       "name": "Mercurial",
-      "icon": "https: //coin98.s3.amazonaws.com/CQ40pCL5wQP5GxxD",
+      "icon": "https://coin98.s3.amazonaws.com/CQ40pCL5wQP5GxxD",
       "decimals": 6
     },
     "pair": {
@@ -1381,7 +1381,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -1394,7 +1394,7 @@
       "mintAddress": "4dmKkXNHdgYsXqBHCuMikNQWwVomZURhYvkkX5c4pQ7y",
       "symbol": "SNY",
       "name": "SNY",
-      "icon": "https: //coin98.s3.amazonaws.com/fyBxpM0aewvQ1Ag6",
+      "icon": "https://coin98.s3.amazonaws.com/fyBxpM0aewvQ1Ag6",
       "decimals": 6
     },
     "pair": {
@@ -1402,7 +1402,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -1415,7 +1415,7 @@
       "mintAddress": "3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR",
       "symbol": "LIKE",
       "name": "LIKE",
-      "icon": "https: //coin98.s3.amazonaws.com/KQw5JbtCr58Bceaz",
+      "icon": "https://coin98.s3.amazonaws.com/KQw5JbtCr58Bceaz",
       "decimals": 9
     },
     "pair": {
@@ -1423,7 +1423,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -1436,7 +1436,7 @@
       "mintAddress": "8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh",
       "symbol": "COPE",
       "name": "COPE",
-      "icon": "https: //coin98.s3.amazonaws.com/dcmuvcvZYEzcuWgL",
+      "icon": "https://coin98.s3.amazonaws.com/dcmuvcvZYEzcuWgL",
       "decimals": 6
     },
     "pair": {
@@ -1444,7 +1444,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -1457,7 +1457,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     },
     "pair": {
@@ -1465,7 +1465,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1478,7 +1478,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     },
     "pair": {
@@ -1486,7 +1486,7 @@
       "mintAddress": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
       "symbol": "SRM",
       "name": "Serum",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
       "decimals": 6
     }
   },
@@ -1499,7 +1499,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     },
     "pair": {
@@ -1507,7 +1507,7 @@
       "mintAddress": "So11111111111111111111111111111111111111112",
       "symbol": "SOL",
       "name": "Solana",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/solana/info/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/solana/info/logo.png",
       "decimals": 9
     }
   },
@@ -1520,7 +1520,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     },
     "pair": {
@@ -1528,7 +1528,7 @@
       "mintAddress": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
       "symbol": "ETH",
       "name": "Wrapped Ethereum",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "decimals": 6
     }
   },
@@ -1541,7 +1541,7 @@
       "mintAddress": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
       "symbol": "FIDA",
       "name": "Bonfida",
-      "icon": "https: //coin98.s3.amazonaws.com/BP2wJvpQ7GSJH1ZK",
+      "icon": "https://coin98.s3.amazonaws.com/BP2wJvpQ7GSJH1ZK",
       "decimals": 6
     },
     "pair": {
@@ -1549,7 +1549,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -1562,7 +1562,7 @@
       "mintAddress": "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M",
       "symbol": "OXY",
       "name": "Oxygen Protocol",
-      "icon": "https: //coin98.s3.amazonaws.com/orRslfCSVTQoT4lf",
+      "icon": "https://coin98.s3.amazonaws.com/orRslfCSVTQoT4lf",
       "decimals": 6
     },
     "pair": {
@@ -1570,7 +1570,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -1583,7 +1583,7 @@
       "mintAddress": "MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb",
       "symbol": "MAPS",
       "name": "MAPS",
-      "icon": "https: //coin98.s3.amazonaws.com/hPMEPnjbtt0PyBFr",
+      "icon": "https://coin98.s3.amazonaws.com/hPMEPnjbtt0PyBFr",
       "decimals": 6
     },
     "pair": {
@@ -1591,7 +1591,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -1604,7 +1604,7 @@
       "mintAddress": "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
       "symbol": "KIN",
       "name": "KIN",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/kin/info/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/kin/info/logo.png",
       "decimals": 5
     },
     "pair": {
@@ -1612,7 +1612,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -1625,7 +1625,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     },
     "pair": {
@@ -1633,8 +1633,8 @@
       "mintAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "name": "USDT",
       "decimals": 6,
-      "icon": "https: //raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-      "website": "https: //tether.to",
+      "icon": "https://raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "website": "https://tether.to",
       "id": "tether"
     }
   },
@@ -1647,7 +1647,7 @@
       "mintAddress": "3JSf5tPeuscJGtaCp5giEiDhv51gQ4v3zWg8DGgyLfAB",
       "symbol": "YFI",
       "name": "Wrapped YFI",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -1655,7 +1655,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1668,7 +1668,7 @@
       "mintAddress": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
       "symbol": "SRM",
       "name": "Serum",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -1676,7 +1676,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1689,7 +1689,7 @@
       "mintAddress": "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3",
       "symbol": "FTT",
       "name": "Wrapped FTT",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -1697,7 +1697,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1710,7 +1710,7 @@
       "mintAddress": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
       "symbol": "BTC",
       "name": "Wrapped Bitcoin",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/bitcoin/info/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/bitcoin/info/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -1718,7 +1718,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1731,7 +1731,7 @@
       "mintAddress": "AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy",
       "symbol": "SUSHI",
       "name": "Wrapped SUSHI",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -1739,7 +1739,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1752,7 +1752,7 @@
       "mintAddress": "GXMvfY2jpQctDqZ9RoU3oWPhufKiCcFEfchvYumtX7jd",
       "symbol": "TOMO",
       "name": "Wrapped TOMO",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/tomochain/info/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/tomochain/info/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -1760,7 +1760,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1773,7 +1773,7 @@
       "mintAddress": "CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG",
       "symbol": "LINK",
       "name": "Wrapped Chainlink",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -1781,7 +1781,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1794,7 +1794,7 @@
       "mintAddress": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
       "symbol": "ETH",
       "name": "Wrapped Ethereum",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -1802,7 +1802,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1815,7 +1815,7 @@
       "mintAddress": "8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh",
       "symbol": "cope",
       "name": "Cope",
-      "icon": "https: //coin98.s3.amazonaws.com/dcmuvcvZYEzcuWgL",
+      "icon": "https://coin98.s3.amazonaws.com/dcmuvcvZYEzcuWgL",
       "decimals": 0
     },
     "pair": {
@@ -1823,7 +1823,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -1836,7 +1836,7 @@
       "mintAddress": "3JSf5tPeuscJGtaCp5giEiDhv51gQ4v3zWg8DGgyLfAB",
       "symbol": "YFI",
       "name": "Wrapped YFI",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -1844,8 +1844,8 @@
       "decimals": 6,
       "mintAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "name": "USDT",
-      "icon": "https: //raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-      "website": "https: //tether.to",
+      "icon": "https://raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "website": "https://tether.to",
       "id": "tether"
     }
   },
@@ -1858,7 +1858,7 @@
       "mintAddress": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
       "symbol": "SRM",
       "name": "Serum",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -1866,8 +1866,8 @@
       "decimals": 6,
       "mintAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "name": "USDT",
-      "icon": "https: //raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-      "website": "https: //tether.to",
+      "icon": "https://raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "website": "https://tether.to",
       "id": "tether"
     }
   },
@@ -1880,7 +1880,7 @@
       "mintAddress": "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3",
       "symbol": "FTT",
       "name": "Wrapped FTT",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -1888,8 +1888,8 @@
       "decimals": 6,
       "mintAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "name": "USDT",
-      "icon": "https: //raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-      "website": "https: //tether.to",
+      "icon": "https://raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "website": "https://tether.to",
       "id": "tether"
     }
   },
@@ -1902,7 +1902,7 @@
       "mintAddress": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
       "symbol": "BTC",
       "name": "Wrapped Bitcoin",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/bitcoin/info/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/bitcoin/info/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -1910,8 +1910,8 @@
       "decimals": 6,
       "mintAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "name": "USDT",
-      "icon": "https: //raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-      "website": "https: //tether.to",
+      "icon": "https://raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "website": "https://tether.to",
       "id": "tether"
     }
   },
@@ -1924,7 +1924,7 @@
       "mintAddress": "AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy",
       "symbol": "SUSHI",
       "name": "Wrapped SUSHI",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -1932,8 +1932,8 @@
       "decimals": 6,
       "mintAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "name": "USDT",
-      "icon": "https: //raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-      "website": "https: //tether.to",
+      "icon": "https://raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "website": "https://tether.to",
       "id": "tether"
     }
   },
@@ -1946,7 +1946,7 @@
       "mintAddress": "GXMvfY2jpQctDqZ9RoU3oWPhufKiCcFEfchvYumtX7jd",
       "symbol": "TOMO",
       "name": "Wrapped TOMO",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/tomochain/info/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/tomochain/info/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -1954,8 +1954,8 @@
       "decimals": 6,
       "mintAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "name": "USDT",
-      "icon": "https: //raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-      "website": "https: //tether.to",
+      "icon": "https://raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "website": "https://tether.to",
       "id": "tether"
     }
   },
@@ -1968,7 +1968,7 @@
       "mintAddress": "CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG",
       "symbol": "LINK",
       "name": "Wrapped Chainlink",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -1976,8 +1976,8 @@
       "decimals": 6,
       "mintAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "name": "USDT",
-      "icon": "https: //raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-      "website": "https: //tether.to",
+      "icon": "https://raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "website": "https://tether.to",
       "id": "tether"
     }
   },
@@ -1990,7 +1990,7 @@
       "mintAddress": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
       "symbol": "ETH",
       "name": "Wrapped Ethereum",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -1998,8 +1998,8 @@
       "decimals": 6,
       "mintAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "name": "USDT",
-      "icon": "https: //raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-      "website": "https: //tether.to",
+      "icon": "https://raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "website": "https://tether.to",
       "id": "tether"
     }
   },
@@ -2012,7 +2012,7 @@
       "mintAddress": "3JSf5tPeuscJGtaCp5giEiDhv51gQ4v3zWg8DGgyLfAB",
       "symbol": "YFI",
       "name": "Wrapped YFI",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -2020,7 +2020,7 @@
       "mintAddress": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
       "symbol": "SRM",
       "name": "Serum",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
       "decimals": 6
     }
   },
@@ -2033,7 +2033,7 @@
       "mintAddress": "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3",
       "symbol": "FTT",
       "name": "Wrapped FTT",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -2041,7 +2041,7 @@
       "mintAddress": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
       "symbol": "SRM",
       "name": "Serum",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
       "decimals": 6
     }
   },
@@ -2054,7 +2054,7 @@
       "mintAddress": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
       "symbol": "BTC",
       "name": "Wrapped Bitcoin",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/bitcoin/info/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/bitcoin/info/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -2062,7 +2062,7 @@
       "mintAddress": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
       "symbol": "SRM",
       "name": "Serum",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
       "decimals": 6
     }
   },
@@ -2075,7 +2075,7 @@
       "mintAddress": "AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy",
       "symbol": "SUSHI",
       "name": "Wrapped SUSHI",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -2083,7 +2083,7 @@
       "mintAddress": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
       "symbol": "SRM",
       "name": "Serum",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
       "decimals": 6
     }
   },
@@ -2096,7 +2096,7 @@
       "mintAddress": "GXMvfY2jpQctDqZ9RoU3oWPhufKiCcFEfchvYumtX7jd",
       "symbol": "TOMO",
       "name": "Wrapped TOMO",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/tomochain/info/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/tomochain/info/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -2104,7 +2104,7 @@
       "mintAddress": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
       "symbol": "SRM",
       "name": "Serum",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
       "decimals": 6
     }
   },
@@ -2117,7 +2117,7 @@
       "mintAddress": "CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG",
       "symbol": "LINK",
       "name": "Wrapped Chainlink",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -2125,7 +2125,7 @@
       "mintAddress": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
       "symbol": "SRM",
       "name": "Serum",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
       "decimals": 6
     }
   },
@@ -2138,7 +2138,7 @@
       "mintAddress": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
       "symbol": "ETH",
       "name": "Wrapped Ethereum",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -2146,7 +2146,7 @@
       "mintAddress": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
       "symbol": "SRM",
       "name": "Serum",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
       "decimals": 6
     }
   },
@@ -2159,7 +2159,7 @@
       "mintAddress": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
       "symbol": "SRM",
       "name": "Serum",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -2167,7 +2167,7 @@
       "mintAddress": "So11111111111111111111111111111111111111112",
       "symbol": "SOL",
       "name": "Solana",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/solana/info/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/solana/info/logo.png",
       "decimals": 9
     }
   },
@@ -2180,7 +2180,7 @@
       "mintAddress": "StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
       "symbol": "STEP",
       "name": "STEP",
-      "icon": "https: //coin98.s3.amazonaws.com/YUAtle1bfe0VZYqY",
+      "icon": "https://coin98.s3.amazonaws.com/YUAtle1bfe0VZYqY",
       "decimals": 9
     },
     "pair": {
@@ -2188,7 +2188,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2201,7 +2201,7 @@
       "mintAddress": "ETAtLmCmsoiEEKfNrHKJ2kYy3MoABhU6NQvpSfij5tDs",
       "symbol": "MEDIA",
       "name": "MEDIA",
-      "icon": "https: //assets.coingecko.com/coins/images/15142/large/media50x50.png?1620122020",
+      "icon": "https://assets.coingecko.com/coins/images/15142/large/media50x50.png?1620122020",
       "decimals": 9
     },
     "pair": {
@@ -2209,7 +2209,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2222,7 +2222,7 @@
       "mintAddress": "3K6rftdAaQYMPunrtNRHgnK2UAtjm2JwyT2oCiTDouYE",
       "symbol": "xCOPE",
       "name": "xCOPE",
-      "icon": "https: //raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3K6rftdAaQYMPunrtNRHgnK2UAtjm2JwyT2oCiTDouYE/logo.png",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3K6rftdAaQYMPunrtNRHgnK2UAtjm2JwyT2oCiTDouYE/logo.png",
       "decimals": 0
     },
     "pair": {
@@ -2230,7 +2230,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2243,7 +2243,7 @@
       "mintAddress": "8PMHT4swUMtBzgHnh5U564N5sjPSiUz2cjEQzFnnP1Fo",
       "symbol": "ROPE",
       "name": "ROPE",
-      "icon": "https: //assets.coingecko.com/coins/images/14661/large/rope-v6.png?1619606776",
+      "icon": "https://assets.coingecko.com/coins/images/14661/large/rope-v6.png?1619606776",
       "decimals": 9
     },
     "pair": {
@@ -2251,7 +2251,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2264,7 +2264,7 @@
       "mintAddress": "CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K",
       "symbol": "ALEPH",
       "name": "ALEPH",
-      "icon": "https: //assets.coingecko.com/coins/images/11676/large/Aleph.png?1592649689",
+      "icon": "https://assets.coingecko.com/coins/images/11676/large/Aleph.png?1592649689",
       "decimals": 6
     },
     "pair": {
@@ -2272,7 +2272,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2285,7 +2285,7 @@
       "mintAddress": "TuLipcqtGVXP9XR62wM8WWCm6a9vhLs7T1uoWBk6FDs",
       "symbol": "TULIP",
       "name": "SolFarm",
-      "icon": "https: //assets.coingecko.com/coins/images/15764/large/TqrUdBG.png?1621827144",
+      "icon": "https://assets.coingecko.com/coins/images/15764/large/TqrUdBG.png?1621827144",
       "decimals": 6
     },
     "pair": {
@@ -2293,7 +2293,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2306,7 +2306,7 @@
       "mintAddress": "E5rk3nmgLUuKUiS94gg4bpWwWwyjCMtddsAXkTFLtHEy",
       "symbol": "WOO",
       "name": "Wootrade Network",
-      "icon": "https: //coin98.s3.amazonaws.com/2c4tbrU7Arzp7Xem",
+      "icon": "https://coin98.s3.amazonaws.com/2c4tbrU7Arzp7Xem",
       "decimals": 6
     },
     "pair": {
@@ -2314,7 +2314,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2327,7 +2327,7 @@
       "mintAddress": "4dmKkXNHdgYsXqBHCuMikNQWwVomZURhYvkkX5c4pQ7y",
       "symbol": "SNY",
       "name": "Synthetify Token",
-      "icon": "https: //coin98.s3.amazonaws.com/fyBxpM0aewvQ1Ag6",
+      "icon": "https://coin98.s3.amazonaws.com/fyBxpM0aewvQ1Ag6",
       "decimals": 6
     },
     "pair": {
@@ -2335,7 +2335,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2348,7 +2348,7 @@
       "mintAddress": "BLwTnYKqf7u4qjgZrrsKeNs2EzWkMLqVCu6j8iHyrNA3",
       "symbol": "BOP",
       "name": "Boring Protocol",
-      "icon": "https: //raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BLwTnYKqf7u4qjgZrrsKeNs2EzWkMLqVCu6j8iHyrNA3/logo.png",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BLwTnYKqf7u4qjgZrrsKeNs2EzWkMLqVCu6j8iHyrNA3/logo.png",
       "decimals": 8
     },
     "pair": {
@@ -2356,7 +2356,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -2369,7 +2369,7 @@
       "mintAddress": "SLRSSpSLUTP7okbCUBYStWCo1vUgyt775faPqz8HUMr",
       "symbol": "SLRS",
       "name": "SLRS",
-      "icon": "https: //raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLRSSpSLUTP7okbCUBYStWCo1vUgyt775faPqz8HUMr/logo.png",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLRSSpSLUTP7okbCUBYStWCo1vUgyt775faPqz8HUMr/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -2377,7 +2377,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2390,7 +2390,7 @@
       "mintAddress": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
       "symbol": "SAMO",
       "name": "Samoyed Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/hRbFQA7AM7Vr2GlC",
+      "icon": "https://coin98.s3.amazonaws.com/hRbFQA7AM7Vr2GlC",
       "decimals": 9
     },
     "pair": {
@@ -2398,7 +2398,7 @@
       "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
       "symbol": "RAY",
       "name": "Raydium",
-      "icon": "https: //coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
+      "icon": "https://coin98.s3.amazonaws.com/iAPkZDsaqPIkcvxR",
       "decimals": 6
     }
   },
@@ -2411,7 +2411,7 @@
       "mintAddress": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
       "symbol": "renBTC",
       "name": "renBTC",
-      "icon": "https: //assets.coingecko.com/coins/images/11370/large/renBTC.png?1589985711",
+      "icon": "https://assets.coingecko.com/coins/images/11370/large/renBTC.png?1589985711",
       "decimals": 8
     },
     "pair": {
@@ -2419,7 +2419,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2432,7 +2432,7 @@
       "mintAddress": "ArUkYE2XDKzqy77PRRGjo4wREWwqk6RXTfM9NeqzPvjU",
       "symbol": "renDOGE",
       "name": "renDOGE",
-      "icon": "https: //s2.coinmarketcap.com/static/img/coins/200x200/8363.png",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/200x200/8363.png",
       "decimals": 8
     },
     "pair": {
@@ -2440,7 +2440,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2453,7 +2453,7 @@
       "mintAddress": "GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z",
       "symbol": "DXL",
       "name": "DXL",
-      "icon": "https: //raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z/logo.png",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z/logo.png",
       "decimals": 6
     },
     "pair": {
@@ -2461,7 +2461,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2474,7 +2474,7 @@
       "mintAddress": "3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR",
       "symbol": "LIKE",
       "name": "LIKE",
-      "icon": "https: //coin98.s3.amazonaws.com/KQw5JbtCr58Bceaz",
+      "icon": "https://coin98.s3.amazonaws.com/KQw5JbtCr58Bceaz",
       "decimals": 9
     },
     "pair": {
@@ -2482,7 +2482,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2495,7 +2495,7 @@
       "mintAddress": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
       "symbol": "mSOL",
       "name": "Marinade staked SOL (mSOL)",
-      "icon": "https: //raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png",
       "decimals": 9
     },
     "pair": {
@@ -2503,7 +2503,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2516,7 +2516,7 @@
       "mintAddress": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
       "symbol": "mSOL",
       "name": "Marinade staked SOL (mSOL)",
-      "icon": "https: //raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png",
       "decimals": 9
     },
     "pair": {
@@ -2524,7 +2524,7 @@
       "mintAddress": "So11111111111111111111111111111111111111112",
       "symbol": "SOL",
       "name": "Solana",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/solana/info/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/solana/info/logo.png",
       "decimals": 9
     }
   },
@@ -2537,7 +2537,7 @@
       "mintAddress": "MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K",
       "symbol": "MER",
       "name": "Mercurial",
-      "icon": "https: //coin98.s3.amazonaws.com/CQ40pCL5wQP5GxxD",
+      "icon": "https://coin98.s3.amazonaws.com/CQ40pCL5wQP5GxxD",
       "decimals": 6
     },
     "pair": {
@@ -2545,7 +2545,7 @@
       "mintAddress": "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
       "symbol": "PAI",
       "name": "PAI (Parrot)",
-      "icon": "https: //assets.coingecko.com/coins/images/4825/large/project-pai.png?1548332092",
+      "icon": "https://assets.coingecko.com/coins/images/4825/large/project-pai.png?1548332092",
       "decimals": 6
     }
   },
@@ -2558,7 +2558,7 @@
       "mintAddress": "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y",
       "symbol": "PORT",
       "name": "PORT",
-      "icon": "https: //coin98.s3.amazonaws.com/N3largR9o62uf7ul",
+      "icon": "https://coin98.s3.amazonaws.com/N3largR9o62uf7ul",
       "decimals": 6
     },
     "pair": {
@@ -2566,7 +2566,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USDC",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2579,7 +2579,7 @@
       "mintAddress": "5TY71D29Cyuk9UrsSxLXw2quJBpS7xDDFuFu2K9W7Wf9",
       "symbol": "IBVOL",
       "name": "IBlive",
-      "icon": "https: //assets.coingecko.com/coins/images/11057/large/download_%2810%29.png?1587642128",
+      "icon": "https://assets.coingecko.com/coins/images/11057/large/download_%2810%29.png?1587642128",
       "decimals": 6
     },
     "pair": {
@@ -2587,7 +2587,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2600,7 +2600,7 @@
       "mintAddress": "91z91RukFM16hyEUCXuwMQwp2BW3vanNG5Jh5yj6auiJ",
       "symbol": "BVOL",
       "name": "BVOL",
-      "icon": "https: //assets.coingecko.com/coins/images/11056/large/download_%2810%29.png?1587641855",
+      "icon": "https://assets.coingecko.com/coins/images/11056/large/download_%2810%29.png?1587641855",
       "decimals": 6
     },
     "pair": {
@@ -2608,7 +2608,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2621,7 +2621,7 @@
       "mintAddress": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
       "symbol": "ETH",
       "name": "Wrapped Ethereum (Sollet)",
-      "icon": "https: //coin98.s3-ap-southeast-1.amazonaws.com/Coin/ethActive2.png",
+      "icon": "https://coin98.s3-ap-southeast-1.amazonaws.com/Coin/ethActive2.png",
       "decimals": 6
     },
     "pair": {
@@ -2629,7 +2629,7 @@
       "mintAddress": "6ry4WBDvAwAnrYJVv6MCog4J8zx6S3cPgSqnTsDZ73AR",
       "symbol": "TRYB",
       "name": "TRYB",
-      "icon": "https: //assets.coingecko.com/coins/images/10119/large/v1bIhvRr_400x400.png?1576359242",
+      "icon": "https://assets.coingecko.com/coins/images/10119/large/v1bIhvRr_400x400.png?1576359242",
       "decimals": 6
     }
   },
@@ -2642,7 +2642,7 @@
       "mintAddress": "7CnFGR9mZWyAtWxPcVuTewpyC3A3MDW4nLsu5NY6PDbd",
       "symbol": "SECO",
       "name": "SECO",
-      "icon": "https: //coin98.s3.amazonaws.com/gcVkF7R4o9RC1X5K",
+      "icon": "https://coin98.s3.amazonaws.com/gcVkF7R4o9RC1X5K",
       "decimals": 6
     },
     "pair": {
@@ -2650,7 +2650,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2663,7 +2663,7 @@
       "mintAddress": "DgHK9mfhMtUwwv54GChRrU54T2Em5cuszq2uMuen1ZVE",
       "symbol": "CEL",
       "name": "Wrapped Celsius (Sollet)",
-      "icon": "https: //coin98.s3.amazonaws.com/6IN70UuGAsSlds6Q",
+      "icon": "https://coin98.s3.amazonaws.com/6IN70UuGAsSlds6Q",
       "decimals": 6
     },
     "pair": {
@@ -2671,7 +2671,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2684,7 +2684,7 @@
       "mintAddress": "9wRD14AhdZ3qV8et3eBQVsrb3UoBZDUbJGyFckpTg8sj",
       "symbol": "PAXG",
       "name": "Wrapped Paxos Gold (Sollet)",
-      "icon": "https: //assets.coingecko.com/coins/images/9519/large/paxg.PNG?1568542565",
+      "icon": "https://assets.coingecko.com/coins/images/9519/large/paxg.PNG?1568542565",
       "decimals": 6
     },
     "pair": {
@@ -2692,7 +2692,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2705,7 +2705,7 @@
       "mintAddress": "38i2NQxjp5rt5B3KogqrxmBxgrAwaB3W1f1GmiKqh9MS",
       "symbol": "GRT",
       "name": "Wrapped GRT  (Sollet)",
-      "icon": "https: //coin98.s3.amazonaws.com/oJPQa1fomYylSIFn",
+      "icon": "https://coin98.s3.amazonaws.com/oJPQa1fomYylSIFn",
       "decimals": 6
     },
     "pair": {
@@ -2713,7 +2713,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2726,7 +2726,7 @@
       "mintAddress": "3GECTP7H4Tww3w8jEPJCJtXUtXxiZty31S9szs84CcwQ",
       "symbol": "HOLY",
       "name": "HOLY",
-      "icon": "https: //assets.coingecko.com/coins/images/13588/large/holy-trinity.4f3b43c7.png?1609930460",
+      "icon": "https://assets.coingecko.com/coins/images/13588/large/holy-trinity.4f3b43c7.png?1609930460",
       "decimals": 6
     },
     "pair": {
@@ -2734,7 +2734,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2747,7 +2747,7 @@
       "mintAddress": "5wihEYGca7X4gSe97C5mVcqNsfxBzhdTwpv72HKs25US",
       "symbol": "1INCH",
       "name": "Wrapped 1INCH (Sollet)",
-      "icon": "https: //coin98.s3.amazonaws.com/2UTbU5Enr0qffzOG",
+      "icon": "https://coin98.s3.amazonaws.com/2UTbU5Enr0qffzOG",
       "decimals": 6
     },
     "pair": {
@@ -2755,7 +2755,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2768,7 +2768,7 @@
       "mintAddress": "6ry4WBDvAwAnrYJVv6MCog4J8zx6S3cPgSqnTsDZ73AR",
       "symbol": "TRYB",
       "name": "TRYB",
-      "icon": "https: //assets.coingecko.com/coins/images/10119/large/v1bIhvRr_400x400.png?1576359242",
+      "icon": "https://assets.coingecko.com/coins/images/10119/large/v1bIhvRr_400x400.png?1576359242",
       "decimals": 6
     },
     "pair": {
@@ -2776,7 +2776,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2789,7 +2789,7 @@
       "mintAddress": "7ncCLJpP3MNww17LW8bRvx8odQQnubNtfNZBL5BgAEHW",
       "symbol": "RSR",
       "name": "Wrapped Reserve Rights (Sollet)",
-      "icon": "https: //assets.coingecko.com/coins/images/8365/large/Reserve_Rights.png?1557737411",
+      "icon": "https://assets.coingecko.com/coins/images/8365/large/Reserve_Rights.png?1557737411",
       "decimals": 6
     },
     "pair": {
@@ -2797,7 +2797,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2810,7 +2810,7 @@
       "mintAddress": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
       "symbol": "BTC",
       "name": "Wrapped Bitcoin (Sollet)",
-      "icon": "https: //coin98.s3.amazonaws.com/4gnj047TMjJf0RDH",
+      "icon": "https://coin98.s3.amazonaws.com/4gnj047TMjJf0RDH",
       "decimals": 6
     },
     "pair": {
@@ -2818,7 +2818,7 @@
       "mintAddress": "6ry4WBDvAwAnrYJVv6MCog4J8zx6S3cPgSqnTsDZ73AR",
       "symbol": "TRYB",
       "name": "TRYB",
-      "icon": "https: //assets.coingecko.com/coins/images/10119/large/v1bIhvRr_400x400.png?1576359242",
+      "icon": "https://assets.coingecko.com/coins/images/10119/large/v1bIhvRr_400x400.png?1576359242",
       "decimals": 6
     }
   },
@@ -2831,7 +2831,7 @@
       "mintAddress": "D68NB5JkzvyNCZAvi6EGtEcGvSoRNPanU9heYTAUFFRa",
       "symbol": "PERP",
       "name": "PERP",
-      "icon": "https: //coin98.s3.amazonaws.com/vlZM6azzJEa5I84U",
+      "icon": "https://coin98.s3.amazonaws.com/vlZM6azzJEa5I84U",
       "decimals": 6
     },
     "pair": {
@@ -2839,7 +2839,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2852,7 +2852,7 @@
       "mintAddress": "dK83wTVypEpa1pqiBbHY3MNuUnT3ADUZM4wk9VZXZEc",
       "symbol": "AAVE",
       "name": "Wrapped Aave",
-      "icon": "https: //coin98.s3.amazonaws.com/uNh7rRVDkaoqa55r",
+      "icon": "https://coin98.s3.amazonaws.com/uNh7rRVDkaoqa55r",
       "decimals": 6
     },
     "pair": {
@@ -2860,7 +2860,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2873,7 +2873,7 @@
       "mintAddress": "Avz2fmevhhu87WYtWQCFj9UjKRjF9Z9QWwN2ih9yF95G",
       "symbol": "COMP",
       "name": "Wrapped Compound (Sollet)",
-      "icon": "https: //assets.coingecko.com/coins/images/10775/large/COMP.png?1592625425",
+      "icon": "https://assets.coingecko.com/coins/images/10775/large/COMP.png?1592625425",
       "decimals": 6
     },
     "pair": {
@@ -2881,7 +2881,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2894,7 +2894,7 @@
       "mintAddress": "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M",
       "symbol": "OXY",
       "name": "Oxygen Protocol",
-      "icon": "https: //coin98.s3.amazonaws.com/orRslfCSVTQoT4lf",
+      "icon": "https://coin98.s3.amazonaws.com/orRslfCSVTQoT4lf",
       "decimals": 6
     },
     "pair": {
@@ -2902,7 +2902,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2915,7 +2915,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     },
     "pair": {
@@ -2923,7 +2923,7 @@
       "mintAddress": "4pk3pf9nJDN1im1kNwWJN1ThjE8pCYCTexXYGyFjqKVf",
       "symbol": "oDOP",
       "name": "Dominican Pesos",
-      "icon": "https: //assets.coingecko.com/coins/images/15781/large/odop.PNG?1621843047",
+      "icon": "https://assets.coingecko.com/coins/images/15781/large/odop.PNG?1621843047",
       "decimals": 9
     }
   },
@@ -2936,7 +2936,7 @@
       "mintAddress": "5TY71D29Cyuk9UrsSxLXw2quJBpS7xDDFuFu2K9W7Wf9",
       "symbol": "IBVOL",
       "name": "IBlive",
-      "icon": "https: //assets.coingecko.com/coins/images/11057/large/download_%2810%29.png?1587642128",
+      "icon": "https://assets.coingecko.com/coins/images/11057/large/download_%2810%29.png?1587642128",
       "decimals": 6
     },
     "pair": {
@@ -2944,7 +2944,7 @@
       "mintAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "symbol": "USDT",
       "name": "USDT",
-      "icon": "https: //coin98.s3.amazonaws.com/5mFLwXbtgIvjMCkv",
+      "icon": "https://coin98.s3.amazonaws.com/5mFLwXbtgIvjMCkv",
       "decimals": 6
     }
   },
@@ -2957,7 +2957,7 @@
       "mintAddress": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
       "symbol": "SAMO",
       "name": "Samoyed Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/hRbFQA7AM7Vr2GlC",
+      "icon": "https://coin98.s3.amazonaws.com/hRbFQA7AM7Vr2GlC",
       "decimals": 9
     },
     "pair": {
@@ -2965,7 +2965,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -2978,7 +2978,7 @@
       "mintAddress": "So11111111111111111111111111111111111111112",
       "symbol": "SOL",
       "name": "Solana",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/solana/info/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/solana/info/logo.png",
       "decimals": 9
     },
     "pair": {
@@ -2986,7 +2986,7 @@
       "mintAddress": "4pk3pf9nJDN1im1kNwWJN1ThjE8pCYCTexXYGyFjqKVf",
       "symbol": "oDOP",
       "name": "Dominican Pesos",
-      "icon": "https: //assets.coingecko.com/coins/images/15781/large/odop.PNG?1621843047",
+      "icon": "https://assets.coingecko.com/coins/images/15781/large/odop.PNG?1621843047",
       "decimals": 9
     }
   },
@@ -2999,7 +2999,7 @@
       "mintAddress": "xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW",
       "symbol": "SLIM",
       "name": "Solanium",
-      "icon": "https: //coin98.s3.amazonaws.com/JEu6fN40nasoT7gv",
+      "icon": "https://coin98.s3.amazonaws.com/JEu6fN40nasoT7gv",
       "decimals": 6
     },
     "pair": {
@@ -3007,7 +3007,7 @@
       "mintAddress": "So11111111111111111111111111111111111111112",
       "symbol": "SOL",
       "name": "Solana",
-      "icon": "https: //cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/solana/info/logo.png",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/solana/info/logo.png",
       "decimals": 9
     }
   },
@@ -3020,7 +3020,7 @@
       "mintAddress": "4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj",
       "symbol": "LIQ",
       "name": "LIQ Protocol",
-      "icon": "https: //coin98.s3.amazonaws.com/fiiIT2u1VAxzOgkL",
+      "icon": "https://coin98.s3.amazonaws.com/fiiIT2u1VAxzOgkL",
       "decimals": 6
     },
     "pair": {
@@ -3028,7 +3028,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -3041,7 +3041,7 @@
       "mintAddress": "E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp",
       "symbol": "CCAI",
       "name": "Cryptocurrencies.Ai",
-      "icon": "https: //assets.coingecko.com/coins/images/16849/large/eLGLJUK.png?1625449381",
+      "icon": "https://assets.coingecko.com/coins/images/16849/large/eLGLJUK.png?1625449381",
       "decimals": 9
     },
     "pair": {
@@ -3049,7 +3049,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -3062,7 +3062,7 @@
       "mintAddress": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
       "symbol": "SBR",
       "name": "Saber Protocol Token",
-      "icon": "https: //coin98.s3.amazonaws.com/raeXdmMXtSnVowT6",
+      "icon": "https://coin98.s3.amazonaws.com/raeXdmMXtSnVowT6",
       "decimals": 6
     },
     "pair": {
@@ -3070,7 +3070,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   },
@@ -3083,7 +3083,7 @@
       "mintAddress": "EdAhkbj5nF9sRM7XN7ewuW8C9XEUMs8P7cnoQ57SYE96",
       "symbol": "FAB",
       "name": "FABRIC",
-      "icon": "https: //coin98.s3.amazonaws.com/BX1uczHpGQ5kiHxI",
+      "icon": "https://coin98.s3.amazonaws.com/BX1uczHpGQ5kiHxI",
       "decimals": 9
     },
     "pair": {
@@ -3091,7 +3091,7 @@
       "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "symbol": "USDC",
       "name": "USD Coin",
-      "icon": "https: //coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
       "decimals": 6
     }
   }
