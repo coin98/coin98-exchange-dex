@@ -748,10 +748,10 @@
     },
     "pair": {
       "id": "solana",
-      "mintAddress": "11111111111111111111111111111111",
+      "mintAddress": "So11111111111111111111111111111111111111112",
       "symbol": "SOL",
-      "name": "Native Solana",
-      "icon": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
+      "name": "Solana",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/solana/info/logo.png",
       "decimals": 9
     }
   },
@@ -769,10 +769,10 @@
     },
     "pair": {
       "id": "solana",
-      "mintAddress": "11111111111111111111111111111111",
+      "mintAddress": "So11111111111111111111111111111111111111112",
       "symbol": "SOL",
-      "name": "Native Solana",
-      "icon": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3",
+      "name": "Solana",
+      "icon": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/solana/info/logo.png",
       "decimals": 9
     }
   },
