@@ -21,6 +21,132 @@
     }
   },
   {
+    "address": "ANUCohkG9gamUn6ofZEbnzGkjtyMexDhnjCwbLDmQ8Ub",
+    "name": "OOGI-USDC",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "base": {
+      "id": "oogi",
+      "mintAddress": "H7Qc9APCWWGDVxGD5fJHmLTmdEgT9GFatAKFNg6sHh8A",
+      "symbol": "OOGI",
+      "name": "OOGI",
+      "icon": "https://oogi.com/icon.png",
+      "decimals": 9
+    },
+    "pair": {
+      "id": "usd-coin",
+      "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "USDC",
+      "name": "USDC",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "decimals": 6
+    }
+  },
+  {
+    "address": "7S1pauEg5VWSXeEFQk9WZqBkGozZFUGiEAS5nub29krn",
+    "name": "ROLL-USDC",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "base": {
+      "id": "high-roller-hippo-clique",
+      "mintAddress": "76aYNHbDfHemxSS7vmh6eJGfjodK8m7srCxiYCrKxzY1",
+      "symbol": "ROLL",
+      "name": "High Roller Hippo Clique",
+      "icon": "https://hrhc.io/images/logo.png",
+      "decimals": 6
+    },
+    "pair": {
+      "id": "usd-coin",
+      "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "USDC",
+      "name": "USDC",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "decimals": 6
+    }
+  },
+  {
+    "address": "3FE2g3cadTJjN3C7gNRavwnv7Yh9Midq7h9KgTVUE7tR",
+    "name": "SAND-USDC",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "base": {
+      "id": "the-sandbox-wormhole",
+      "mintAddress": "49c7WuCZkQgc3M4qH8WuEUNXfgwupZf1xqWkDQ7gjRGt",
+      "symbol": "SAND",
+      "name": "SAND",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/49c7WuCZkQgc3M4qH8WuEUNXfgwupZf1xqWkDQ7gjRGt/logo.png",
+      "decimals": 8
+    },
+    "pair": {
+      "id": "usd-coin",
+      "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "USDC",
+      "name": "USDC",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "decimals": 6
+    }
+  },
+  {
+    "address": "2JiQd14xAjmcNEJicyU1m3TVbzQDktTvY285gkozD46J",
+    "name": "GST-USDC",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "base": {
+      "id": "gst",
+      "mintAddress": "AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB",
+      "symbol": "GST",
+      "name": "GST",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB/logo.png",
+      "decimals": 9
+    },
+    "pair": {
+      "id": "usd-coin",
+      "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "USDC",
+      "name": "USDC",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "decimals": 6
+    }
+  },
+  {
+    "address": "2dKHkfJGKNxmtwdLcsqXFGcb8Xppw5RP6YVWEWjSfAHm",
+    "name": "TRTLS-USDC",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "base": {
+      "id": "turtles-token",
+      "mintAddress": "q4bpaRKw3fJB1AJBeeBaKv3TjYzWsmntLgnSB275YUb",
+      "symbol": "TRTLS",
+      "name": "Turtles",
+      "icon": "https://www.turtles.com/turtles.png",
+      "decimals": 9
+    },
+    "pair": {
+      "id": "usd-coin",
+      "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "USDC",
+      "name": "USDC",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "decimals": 6
+    }
+  },
+  {
+    "address": "2aDYzSM9y2kAoECWdPbBU8cpnjn196mEqBbDETZEKiNW",
+    "name": "CSTR-USDC",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "base": {
+      "id": "corestarter",
+      "mintAddress": "G7uYedVqFy97mzjygebnmmaMUVxWHFhNZotY6Zzsprvf",
+      "symbol": "CSTR",
+      "name": "CoreStarter",
+      "icon": "https://raw.githubusercontent.com/CoreStarter/token-logo/main/corestarter_logo.png",
+      "decimals": 9
+    },
+    "pair": {
+      "id": "usd-coin",
+      "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "USDC",
+      "name": "USDC",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "decimals": 6
+    }
+  },
+  {
     "address": "9WDPi1uZVxBwZY4NXy7A3nGfxAzxvNaS56iHk3cBhQ3U",
     "name": "PSY-USDC",
     "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
