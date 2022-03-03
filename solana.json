@@ -21,6 +21,48 @@
     }
   },
   {
+    "address": "2JYtpRB51ShaB7i4eaQyx6QYqWFmm38CAakFSMP8xush",
+    "name": "NOVA-USDC",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "base": {
+      "id": "nova-finance",
+      "mintAddress": "BDrL8huis6S5tpmozaAaT5zhE5A7ZBAB2jMMvpKEeF8A",
+      "symbol": "NOVA",
+      "name": "NOVA FINANCE",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BDrL8huis6S5tpmozaAaT5zhE5A7ZBAB2jMMvpKEeF8A/logo.svg",
+      "decimals": 9
+    },
+    "pair": {
+      "id": "usd-coin",
+      "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "USDC",
+      "name": "USDC",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "decimals": 6
+    }
+  },
+  {
+    "address": "9qhuXHS7r5k2WKpbUsTQmEFo4Q38yjii12mxm31F1Hmh",
+    "name": "FUJI-USDC",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "base": {
+      "id": "fuji",
+      "mintAddress": "fujiCeCeP9AFDVCv27P5JRcKLoH7wfs2C9xmDECs24m",
+      "symbol": "FUJI",
+      "name": "FUJI",
+      "icon": "https://raw.githubusercontent.com/MarkSackerberg/token-list/main/assets/mainnet/fujiCeCeP9AFDVCv27P5JRcKLoH7wfs2C9xmDECs24m/logo.png",
+      "decimals": 3
+    },
+    "pair": {
+      "id": "usd-coin",
+      "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "USDC",
+      "name": "USDC",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "decimals": 6
+    }
+  },
+  {
     "address": "ANUCohkG9gamUn6ofZEbnzGkjtyMexDhnjCwbLDmQ8Ub",
     "name": "OOGI-USDC",
     "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
