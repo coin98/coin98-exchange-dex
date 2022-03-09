@@ -21,6 +21,48 @@
     }
   },
   {
+    "address": "3Mf3bxVS2zLW3bbr9BNbqdiizaUwCGwoi3xhrAXfbFnW",
+    "name": "CMFI-USDC",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "base": {
+      "id": "compendium-fi",
+      "mintAddress": "5Wsd311hY8NXQhkt9cWHwTnqafk7BGEbLu8Py3DSnPAr",
+      "symbol": "CMFI",
+      "name": "Compendium.Fi",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5Wsd311hY8NXQhkt9cWHwTnqafk7BGEbLu8Py3DSnPAr/logo.png",
+      "decimals": 6
+    },
+    "pair": {
+      "id": "usd-coin",
+      "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "USDC",
+      "name": "USDC",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "decimals": 6
+    }
+  },
+  {
+    "address": "DR8V2wUCSFKCGjML6AZvUB2eYWDPVQ5xju3DeXGgpSaB",
+    "name": "SCY-USDC",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "base": {
+      "id": "synchrony",
+      "mintAddress": "SCYfrGCw8aDiqdgcpdGjV6jp4UVVQLuphxTDLNWu36f",
+      "symbol": "SCY",
+      "name": "Synchrony",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SCYfrGCw8aDiqdgcpdGjV6jp4UVVQLuphxTDLNWu36f/logo.png",
+      "decimals": 9
+    },
+    "pair": {
+      "id": "usd-coin",
+      "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "USDC",
+      "name": "USDC",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "decimals": 6
+    }
+  },
+  {
     "address": "2JYtpRB51ShaB7i4eaQyx6QYqWFmm38CAakFSMP8xush",
     "name": "NOVA-USDC",
     "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
