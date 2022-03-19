@@ -21,6 +21,48 @@
     }
   },
   {
+    "address": "C3c2NZurMhwrgMAaUXewjDGTy5f93MvYbhYCYfXXmnZN",
+    "name": "ZBC-USDC",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "base": {
+      "id": "zebec-protocol",
+      "mintAddress": "zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF",
+      "symbol": "ZBC",
+      "name": "Zebec Protocol",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF/logo.png",
+      "decimals": 9
+    },
+    "pair": {
+      "id": "usd-coin",
+      "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "USDC",
+      "name": "USDC",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "decimals": 6
+    }
+  },
+  {
+    "address": "HubRne1PhTa8ufcGRmS6sMJpbB5yY3BEykUuw8xXoAyy",
+    "name": "AART-USDC",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "base": {
+      "id": "all-art",
+      "mintAddress": "F3nefJBcejYbtdREjui1T9DPh5dBgpkKq7u2GAAMXs5B",
+      "symbol": "AART",
+      "name": "ALL.ART",
+      "icon": "https://raw.githubusercontent.com/allartprotocol/token-list/main/assets/mainnet/F3nefJBcejYbtdREjui1T9DPh5dBgpkKq7u2GAAMXs5B/logo.jpg",
+      "decimals": 6
+    },
+    "pair": {
+      "id": "usd-coin",
+      "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "symbol": "USDC",
+      "name": "USDC",
+      "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+      "decimals": 6
+    }
+  },
+  {
     "address": "3Mf3bxVS2zLW3bbr9BNbqdiizaUwCGwoi3xhrAXfbFnW",
     "name": "CMFI-USDC",
     "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
