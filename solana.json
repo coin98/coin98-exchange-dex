@@ -21,6 +21,48 @@
     }
   },
   {
+    "address": "vfARqzk9ZtFpK7etvUq23QzWidopgwBzJx29je7JER8",
+    "name": "RPC-USDC",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "base": {
+    "id": "republic-credits",
+    "mintAddress": "EAefyXw6E8sny1cX3LTH6RSvtzH6E5EFy1XsE2AiH1f3",
+    "symbol": "RPC",
+    "name": "Republic Credits",
+    "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EAefyXw6E8sny1cX3LTH6RSvtzH6E5EFy1XsE2AiH1f3/logo.png",
+    "decimals": 6
+    },
+    "pair": {
+    "id": "usd-coin",
+    "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "symbol": "USDC",
+    "name": "USDC",
+    "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+    "decimals": 6
+    }
+    },
+  {
+    "address": "5ocAKeiikP1y9wZhgNQDKu3UXxrYusxmDVnp44z4jner",
+    "name": "PLD-USDC",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "base": {
+    "id": "plutonian-dao",
+    "mintAddress": "2cJgFtnqjaoiu9fKVX3fny4Z4pRzuaqfJ3PBTMk2D9ur",
+    "symbol": "PLD",
+    "name": "Plutonian DAO",
+    "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2cJgFtnqjaoiu9fKVX3fny4Z4pRzuaqfJ3PBTMk2D9ur/logo.png",
+    "decimals": 6
+    },
+    "pair": {
+    "id": "usd-coin",
+    "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "symbol": "USDC",
+    "name": "USDC",
+    "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+    "decimals": 6
+    }
+    },
+  {
     "address": "4rtLjEACKFbUxGB2zrWxNkRnCNbSr7ES1ZsXrTd6mhbr",
     "name": "FANT-USDC",
     "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
