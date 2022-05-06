@@ -21,6 +21,27 @@
     }
   },
   {
+    "address": "AhLNACGvMQk6vtDq1mdcG5gidbnH558rAD6fhxBpcKUi",
+    "name": "DIO-USDT",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "base": {
+    "id": "decimated",
+    "mintAddress": "BiDB55p4G3n1fGhwKFpxsokBMqgctL4qnZpDH1bVQxMD",
+    "symbol": "DIO",
+    "name": "decimated",
+    "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BiDB55p4G3n1fGhwKFpxsokBMqgctL4qnZpDH1bVQxMD/logo.png",
+    "decimals": 9
+    },
+    "pair": {
+    "id": "tether",
+    "mintAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "symbol": "USDT",
+    "name": "TETHER",
+    "icon": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
+    "decimals": 6
+    }
+    },
+  {
     "address": "A25EqMxhHQvDLrSKc3kNLWbqDtBGPqnxsAGjYExju2TR",
     "name": "DGE-USDC",
     "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
