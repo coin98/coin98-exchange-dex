@@ -21,6 +21,48 @@
     }
   },
   {
+    "address": "4HedJ2uqt4cYvDNSCV85cLzKqKzoDfqzLKpU3r9M2deq",
+    "name": "HTO-USDC",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "base": {
+    "id": "heavenland-hto",
+    "mintAddress": "htoHLBJV1err8xP5oxyQdV2PLQhtVjxLXpKB7FsgJQD",
+    "symbol": "HTO",
+    "name": "Heavenland HTO",
+    "icon":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/htoHLBJV1err8xP5oxyQdV2PLQhtVjxLXpKB7FsgJQD/logo.png",
+    "decimals": 9
+    },
+    "pair": {
+    "id": "usd-coin",
+    "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "symbol": "USDC",
+    "name": "USDC",
+    "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+    "decimals": 6
+    }
+  },
+  {
+    "address": "98RguBcn2ANceoN9w4XyNQLMo3TVWNPq3BZQyKFGY9TG",
+    "name": "PRGC-USDC",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "base": {
+    "id": "protoreality-games",
+    "mintAddress": "66edZnAPEJSxnAK4SckuupssXpbu5doV57FUcghaqPsY",
+    "symbol": "PRGC",
+    "name": "ProtoReality Games Token",
+    "icon":"https://www.protorealitygames.com/images/PRGC_Token.png",
+    "decimals": 9
+    },
+    "pair": {
+    "id": "usd-coin",
+    "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "symbol": "USDC",
+    "name": "USDC",
+    "icon": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
+    "decimals": 6
+    }
+  },
+  {
     "address": "AhLNACGvMQk6vtDq1mdcG5gidbnH558rAD6fhxBpcKUi",
     "name": "DIO-USDT",
     "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
